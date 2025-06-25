@@ -6,17 +6,12 @@
 
 ## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My full name is Vivek Pandey <h6>You can call me Vikky </h6> <h5> A passionate full stack developer from India <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
-- 💼 I’m currently working at [**NashTech Global**](https://nashtechglobal.com) as **Software Engineering**
+- 💼 I’m currently working at [**Cognizant**](https://www.cognizant.com/us/en) as **Software Engineering**
 
-- 🎓 I graduated with a Bachelor's Degree in Software Engineering from [**FPT University**](https://hcmuni.fpt.edu.vn)
+- 🎓 I graduated with a Bachelor's Degree in Software Engineering from [**JECRC**](https://jecrcfoundation.com/)
 
-- 🌱 I’m currently learning [**AWS Certified DevOps Engineer - Professional**](https://aws.amazon.com/certification/certified-devops-engineer-professional), [**Apache Kafka**](https://kafka.apache.org), and more.
+- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/vivekdevinfo?tab=repositories)
 
-- 📖 I'm currently reading **Clean Code: A Handbook of Agile Software Craftsmanship**, [**A Thousand Splendid Suns**](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns), and more.
-
-- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
-
-- 🌟 Know about my achievements [**via my certifications**](https://github.com/khoahd7621/awards)
 
 - ⚡ Fun fact **I’m all about staying active and exploring - whether it’s running, playing badminton, diving into new tech trends, practicing English and Japanese, enjoying good food, or traveling to new places. Plus, I’m always up for a great movie!**
 
