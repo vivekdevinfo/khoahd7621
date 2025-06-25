@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My full name is Hoàng Đăng Khoa <h6>You can call me Henry</h6> <h5> A passionate full stack developer from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My full name is Vivek Pandey <h6>You can call me Vikky </h6> <h5> A passionate full stack developer from India <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 - 💼 I’m currently working at [**NashTech Global**](https://nashtechglobal.com) as **Software Engineering**
 
